@@ -2,7 +2,7 @@
 This project aims to forecast sales for a bakery using the Autoregressive Integrated Moving Average (ARIMA) model. The dataset, named 'Bakery Sales.csv,' contains historical sales data from the bakery. The goal is to leverage the ARIMA model to analyze patterns and trends in the sales data and generate accurate forecasts for future sales. By applying time series analysis techniques, including data preprocessing, model fitting, and evaluation, this project seeks to provide insights that can aid in inventory management, staffing decisions, and overall business planning for the bakery.
 
 ## Dataset
-The dataset used in this project can be found at the following link: Bakery Sales Dataset.
+The dataset used in this project can be found at the following link: [Bakery Sales Dataset.](https://www.kaggle.com/datasets/hosubjeong/bakery-sales)
 
 ## Summary
 ### Chapter 1: Exploratory and Statistical Analysis
