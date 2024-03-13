@@ -6,29 +6,6 @@ This project aims to forecast sales for a bakery using the Autoregressive Integr
 ## Dataset
 The dataset used in this project can be found at the following link: [Bakery Sales Dataset.](https://www.kaggle.com/datasets/hosubjeong/bakery-sales)
 
-## Summary
-### Chapter 1: Exploratory and Statistical Analysis
-1.1: Importing Data and First Look
-1.2: Checking Null Values
-1.3: Checking Data Types
-### Chapter 2: Data Processing
-2.1: Handling Missing Values
-2.2: Handling Outliers
-2.3: Handling Incorrect Data Types
-2.4: Data Grouping by Week
-2.5: Plotting Total Graph
-2.6: Final Analysis
-### Chapter 3: Building ARIMA Model
-3.1: Autocorrelation and Residuals
-3.2: Fitting ARIMA Model
-3.3: Plotting Residuals
-3.4: Splitting Data
-3.5: Differencing Data
-3.6: Walk Forward
-### Chapter 4: Conclusions
-4.1: RMSE
-4.2: MAE and MAPE
-4.3: Plotting Real Values X Predictions
 ## How to Use
 To reproduce this project, follow these steps:
 
